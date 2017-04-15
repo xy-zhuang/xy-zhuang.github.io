@@ -1,2 +1,2 @@
-blog.cleg.cf
-blog.www.cleg.cf
+cleg.cf
+www.cleg.cf
